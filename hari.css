@@ -26,6 +26,11 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
+.font-footer {
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+}
+
 nav {
 	font-size: 1.5em;
 }
